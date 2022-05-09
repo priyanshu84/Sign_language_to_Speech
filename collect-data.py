@@ -24,7 +24,8 @@ for i in string.ascii_uppercase:
     
 
 
-# Train or test 
+# Train or test
+# diffrent mode
 mode = 'train'
 directory = 'data/'+mode+'/'
 minValue = 70
